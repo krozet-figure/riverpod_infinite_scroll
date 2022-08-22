@@ -27,3 +27,6 @@
 .dart_tool/
 .packages
 build/
+
+# If using Flutter Version Manager, this will ignore the sdk for the project (https://fvm.app/docs/getting_started/overview)
+.fvm/*
