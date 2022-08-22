@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   riverpod_infinite_scroll:
-    path: ../../riverpod_infinite_scroll_v2.0
+    path: ../../riverpod_infinite_scroll
 
 dev_dependencies:
   flutter_test:
