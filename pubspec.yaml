@@ -1,4 +1,4 @@
-name: riverpod_infinite_scroll_v2.0
+name: riverpod_infinite_scroll
 description: Riverpod implementation of infinite_scroll_pagination, this package
   allows to use infinite_scroll_pagination with Riverpod abstracting away the
   complexity. Updated to work with Riverpod 2.0.0-dev.9
